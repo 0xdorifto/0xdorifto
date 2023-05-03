@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm 0xdorifto and I'm a blockchain developer from Portugal 🇵🇹
+
+Here are some stats about my github:
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xdorifto&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdorifto&layout=compact&langs_count=6"/>
+<div/>
+ 
 <!--
 **0xdorifto/0xdorifto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
