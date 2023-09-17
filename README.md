@@ -1,6 +1,24 @@
 ### Hi there 👋
 
-I'm 0xdorifto and I'm a blockchain developer from Portugal 🇵🇹
+I'm 0xdorifto and I'm a Web3/Blockchain developer from Portugal 🇵🇹
+
+ - I'm working at Border Innovation, launching our own Blockchain department
+ - I'm contributing to [Iron Wallet](https://github.com/iron-wallet/iron), an open source wallet built for developers
+ - I've been to 2 ETH Global Hackathons, [Lisbon 2023](https://ethglobal.com/showcase/peermatch-6ywi8) and [Paris 2023](https://ethglobal.com/showcase/chitchatchain-j1vx0)
+
+### Tech I like
+
+ - Next.js
+ - React
+ - Typescript
+ - Solidity
+ - Hardhat
+
+### Socials
+
+I'm @0xdorifto everywhere, including [lenster](https://lenster.xyz/u/0xdorifto)!
+
+### Stats
 
 Here are some stats about my github:
 
