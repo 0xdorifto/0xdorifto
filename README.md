@@ -28,8 +28,8 @@ Here's the tech I work with the most:
 Follow me on social media:
 
 <div id="socials">
-  <a href="mailto:gastaosousafaria@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <a href="https://www.linkedin.com/in/gastaosf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://x.com/0xdorifto" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
-  <a href="https://discord.com/users/373964924134883339" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+  <a href="mailto:gastaosousafaria@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/gastaosf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/></a>
+  <a href="https://x.com/0xdorifto" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" target="_blank"/></a>
+  <a href="https://discord.com/users/373964924134883339" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" target="_blank"/></a>
 </div>
