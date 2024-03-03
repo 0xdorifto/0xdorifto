@@ -2,7 +2,7 @@
 
 I'm 0xdorifto and I'm a Web3/Blockchain developer from Portugal 🇵🇹
 
-- I'm working at Border Innovation, launching our own Blockchain department
+- I'm developing Monumints, an NFT-based sticker album for UNESCO World Heritage Sites.
 - I've been to 2 ETH Global Hackathons. Click [here](https://ethglobal.com/showcase/peermatch-6ywi8) to see my ETH Global Lisbon project and [here](https://ethglobal.com/showcase/chitchatchain-j1vx0) to see my ETH Global Paris project.
 - Open source contributions to [Iron Wallet](https://github.com/iron-wallet/iron) and [starknet.js](https://github.com/starknet-io/starknet.js)
 - Click [here](https://ethernaut.openzeppelin.com/leaderboard/) to see my Etherenaut leaderboard position. (Search for `0xdorifto`)
